@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- Tôi là sinh viên ngành Hệ thống thông tin trường Đại học Cần Thơ. Tôi có kinh nghiệm lập trình web trong các ngôn ngữ lập trình như HTML, CSS, JavaScript, PHP và cơ sở dữ liệu như MySQL. Tôi cũng có hiểu biết về nhiều nền tảng như Wordpress, Laravel và Node.js. 
 <!--
 **nguyenlehong/nguyenlehong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
